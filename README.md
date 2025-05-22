@@ -1,4 +1,5 @@
 # Chat-loves-aaru
+<<<<<<< HEAD
 
 A simple Python chatbot prototype for contributors to AaruNex using the access code: `CHAT@AARU@3904`.
 
@@ -15,3 +16,6 @@ A simple Python chatbot prototype for contributors to AaruNex using the access c
    ```bash
    python chat_aaru_bot.py
    ```
+=======
+By code Contribution of emotional users
+>>>>>>> c08ac6adac688bb126339620434201f3b20f7ee1
